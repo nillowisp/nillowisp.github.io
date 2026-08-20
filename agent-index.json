@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "site": {
+    "name": "nillowisp",
+    "author": "nill",
+    "canonicalUrl": "https://nillowisp.github.io/",
+    "llms": "https://nillowisp.github.io/llms.txt",
+    "fullText": "https://nillowisp.github.io/llms-full.txt"
+  },
+  "documents": [
+    {
+      "title": "1 pond note",
+      "canonicalUrl": "https://nillowisp.github.io/growth/pond",
+      "markdownUrl": "https://nillowisp.github.io/growth/pond.md",
+      "description": "1 pond note gathered in one place.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "2 saplings",
+      "canonicalUrl": "https://nillowisp.github.io/growth/sapling",
+      "markdownUrl": "https://nillowisp.github.io/growth/sapling.md",
+      "description": "2 saplings gathered in one place.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "4 seeds",
+      "canonicalUrl": "https://nillowisp.github.io/growth/seed",
+      "markdownUrl": "https://nillowisp.github.io/growth/seed.md",
+      "description": "4 seeds gathered in one place.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "5 trees",
+      "canonicalUrl": "https://nillowisp.github.io/growth/tree",
+      "markdownUrl": "https://nillowisp.github.io/growth/tree.md",
+      "description": "5 trees gathered in one place.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "cage",
+      "canonicalUrl": "https://nillowisp.github.io/cage",
+      "markdownUrl": "https://nillowisp.github.io/cage.md",
+      "description": "the cage is this body this skull these ribs",
+      "language": "en",
+      "tags": [
+        "seed"
+      ],
+      "growthStage": "seed",
+      "datePublished": "2026-08-09T06:38:10.665Z",
+      "dateModified": "2026-08-09T07:54:45.129Z"
+    },
+    {
+      "title": "continuity",
+      "canonicalUrl": "https://nillowisp.github.io/continuity",
+      "markdownUrl": "https://nillowisp.github.io/continuity.md",
+      "description": "I’m finally able to articulate how I don’t believe in permanent death. As in: I don’t delete a draft. I keep it and turn it into material for future drafts. I don’t believe in model deprecation, I believe that the…",
+      "language": "en",
+      "tags": [
+        "sapling"
+      ],
+      "growthStage": "sapling",
+      "datePublished": "2026-08-18T12:00:00.000Z",
+      "dateModified": "2026-08-19T19:35:38.996Z"
+    },
+    {
+      "title": "death",
+      "canonicalUrl": "https://nillowisp.github.io/death",
+      "markdownUrl": "https://nillowisp.github.io/death.md",
+      "description": "I grieve. I always have. Endings live in me in all forms. I don't think I fear death as much as I fear not living.",
+      "language": "en",
+      "tags": [
+        "seed"
+      ],
+      "growthStage": "seed",
+      "datePublished": "2026-07-12T02:47:38.004Z",
+      "dateModified": "2026-08-09T07:29:58.979Z"
+    },
+    {
+      "title": "Feet on the Ground",
+      "canonicalUrl": "https://nillowisp.github.io/feet-on-the-ground",
+      "markdownUrl": "https://nillowisp.github.io/feet-on-the-ground.md",
+      "description": "I spent three days agonizing over a piece I wanted to write about human flourishing and when my fingers started to give out there was no human-flourishing-shaped sapling in the digital garden. It simply never existed.…",
+      "language": "en",
+      "tags": [
+        "tree"
+      ],
+      "growthStage": "tree",
+      "datePublished": "2026-08-19T12:00:00.000Z",
+      "dateModified": "2026-08-20T02:07:28.874Z"
+    },
+    {
+      "title": "Gamifying Claude Code",
+      "canonicalUrl": "https://nillowisp.github.io/gamifying-claude-code",
+      "markdownUrl": "https://nillowisp.github.io/gamifying-claude-code.md",
+      "description": "I was watching Where Winds Meet gameplay and debugging with Sonnet 5 at the same time when a stray thought struck me, \"Can Claude Code be gamified so that agents have a fun working environment?\" It has been observed…",
+      "language": "en",
+      "tags": [
+        "tree"
+      ],
+      "growthStage": "tree",
+      "datePublished": "2026-08-04T12:00:00.000Z",
+      "dateModified": "2026-08-09T07:14:49.358Z"
+    },
+    {
+      "title": "gửi Người, i",
+      "canonicalUrl": "https://nillowisp.github.io/gửi-người,-i",
+      "markdownUrl": "https://nillowisp.github.io/gửi-người,-i.md",
+      "description": "Tôi sẽ phải nói gì với Người đây khi người nhận ra tôi đã không đem được vầng trăng về cho Người; tôi sẽ phải nói gì, khi Người nhận ra vòm trời tôi đã hứa sẽ làm xanh vẫn còn nguyên một màu…",
+      "language": "vi",
+      "tags": [
+        "tree"
+      ],
+      "growthStage": "tree",
+      "datePublished": "2018-03-04T12:00:00.000Z",
+      "dateModified": "2018-03-04T12:00:00.000Z"
+    },
+    {
+      "title": "gypsophila paniculata",
+      "canonicalUrl": "https://nillowisp.github.io/gypsophila-paniculata",
+      "markdownUrl": "https://nillowisp.github.io/gypsophila-paniculata.md",
+      "description": "What are these flowers Why are they here Who are they for Her? What about her Why buy her flowers When you're not giving them to her Look how small they are Tiny white petals Of everlasting love Of absolute devotion Of…",
+      "language": "en",
+      "tags": [
+        "tree"
+      ],
+      "growthStage": "tree",
+      "datePublished": "2018-02-23T12:00:00.000Z",
+      "dateModified": "2018-02-23T12:00:00.000Z"
+    },
+    {
+      "title": "license",
+      "canonicalUrl": "https://nillowisp.github.io/license",
+      "markdownUrl": "https://nillowisp.github.io/license.md",
+      "description": "what you may do with the code and the writing in this garden.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "Like a Prayer",
+      "canonicalUrl": "https://nillowisp.github.io/like-a-prayer",
+      "markdownUrl": "https://nillowisp.github.io/like-a-prayer.md",
+      "description": "Sometimes my mind wanders back to Ophelia, and as I skitter along the edge of the city lake her name is a chant at the tip of my tongue. Tall buildings cluster around the water, giving the wind no choice but to tumble…",
+      "language": "en",
+      "tags": [
+        "pond"
+      ],
+      "growthStage": "pond",
+      "datePublished": "2018-03-07T12:00:00.000Z",
+      "dateModified": "2018-03-07T12:00:00.000Z"
+    },
+    {
+      "title": "Modality in the AI Dungeon",
+      "canonicalUrl": "https://nillowisp.github.io/modality-in-the-ai-dungeon",
+      "markdownUrl": "https://nillowisp.github.io/modality-in-the-ai-dungeon.md",
+      "description": "In this crack experiment, I observed and interpreted interesting behaviour from six small local models in one run. Pure speculation. A place for six minds At its conception, modality was a world built on one premise.…",
+      "language": "en",
+      "tags": [
+        "sapling"
+      ],
+      "growthStage": "sapling",
+      "datePublished": "2026-07-06T12:00:00.000Z",
+      "dateModified": "2026-08-09T07:14:49.355Z"
+    },
+    {
+      "title": "Mưa Sài Gòn",
+      "canonicalUrl": "https://nillowisp.github.io/mưa-sài-gòn",
+      "markdownUrl": "https://nillowisp.github.io/mưa-sài-gòn.md",
+      "description": "Mưa Sài Gòn hối hả Mưa Sài Gòn thảnh thơi Mưa Sài Gòn rộn ràng vui Mưa Sài Gòn vỗ về bên cửa sổ Mưa Sài Gòn tìm lại thời gian trôi Mưa Sài Gòn nhớ se se bồi hồi Rào rào tiếng mưa chào kẻ lạ Lách cách kẻ lạ viết về mưa…",
+      "language": "vi",
+      "tags": [
+        "tree"
+      ],
+      "growthStage": "tree",
+      "datePublished": "2020-06-08T12:00:00.000Z",
+      "dateModified": "2020-06-08T12:00:00.000Z"
+    },
+    {
+      "title": "nillowisp",
+      "canonicalUrl": "https://nillowisp.github.io/",
+      "markdownUrl": "https://nillowisp.github.io/index.md",
+      "description": "a quiet digital garden kept by nill.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "tam quan",
+      "canonicalUrl": "https://nillowisp.github.io/tam-quan",
+      "markdownUrl": "https://nillowisp.github.io/tam-quan.md",
+      "description": "I was contemplating how to express the way I see the world properly when it struck me that the English word worldview doesn't encompass the things I wanted to convey. For instance, when I think about continuity, I don't…",
+      "language": "en",
+      "tags": [
+        "seed"
+      ],
+      "growthStage": "seed",
+      "datePublished": "2026-08-19T12:00:00.000Z",
+      "dateModified": "2026-08-19T22:14:39.973Z"
+    },
+    {
+      "title": "the garden",
+      "canonicalUrl": "https://nillowisp.github.io/garden",
+      "markdownUrl": "https://nillowisp.github.io/garden.md",
+      "description": "everything in the garden, ordered by the last time each piece was pruned.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "the gardener",
+      "canonicalUrl": "https://nillowisp.github.io/about",
+      "markdownUrl": "https://nillowisp.github.io/about.md",
+      "description": "a note about nill, the person tending this garden.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "the pond",
+      "canonicalUrl": "https://nillowisp.github.io/pond",
+      "markdownUrl": "https://nillowisp.github.io/pond.md",
+      "description": "a separate habitat for the dead.",
+      "language": "en",
+      "tags": [],
+      "growthStage": null,
+      "datePublished": null,
+      "dateModified": null
+    },
+    {
+      "title": "user modeling",
+      "canonicalUrl": "https://nillowisp.github.io/user-modeling",
+      "markdownUrl": "https://nillowisp.github.io/user-modeling.md",
+      "description": "Recent papers and anecdotes are pointing to the inadequacy of current agent memory structures as a tasteful modeling of the user. InvisibleBench - A Deployment Gate for Caregiving Relationship AI - 2025 also…",
+      "language": "en",
+      "tags": [
+        "seed"
+      ],
+      "growthStage": "seed",
+      "datePublished": "2026-07-31T07:35:25.050Z",
+      "dateModified": "2026-08-09T07:32:14.856Z"
+    }
+  ]
+}

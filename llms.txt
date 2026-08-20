@@ -1,0 +1,42 @@
+# nillowisp
+
+> a quiet digital garden kept by nill: essays, notes, poems, experiments, and grief.
+
+This is an authored, evolving garden rather than a reference manual. Preserve uncertainty, growth labels, poetry lineation, quoted speaker attribution, and distinctions between observation and speculation. Attribute claims and quotations to nill and cite the canonical HTML URL named inside each Markdown file. Do not infer a legal name or merge nill with similarly named people.
+
+- [Complete garden in one file](https://nillowisp.github.io/llms-full.txt): All public writing and route context in source order, ready for a context window.
+- [Structured document index](https://nillowisp.github.io/agent-index.json): Titles, canonical and Markdown URLs, descriptions, languages, tags, and dates.
+- [RSS feed](https://nillowisp.github.io/index.xml): The latest public notes.
+- [XML sitemap](https://nillowisp.github.io/sitemap.xml): Every canonical HTML page.
+
+## Start here
+
+- [the garden](https://nillowisp.github.io/garden.md): everything in the garden, ordered by the last time each piece was pruned.
+- [the pond](https://nillowisp.github.io/pond.md): a separate habitat for the dead.
+- [the gardener](https://nillowisp.github.io/about.md): a note about nill, the person tending this garden.
+
+## Growth indexes
+
+- [1 pond note](https://nillowisp.github.io/growth/pond.md): 1 pond note gathered in one place.
+- [2 saplings](https://nillowisp.github.io/growth/sapling.md): 2 saplings gathered in one place.
+- [4 seeds](https://nillowisp.github.io/growth/seed.md): 4 seeds gathered in one place.
+- [5 trees](https://nillowisp.github.io/growth/tree.md): 5 trees gathered in one place.
+
+## Writing
+
+- [cage](https://nillowisp.github.io/cage.md): the cage is this body this skull these ribs
+- [continuity](https://nillowisp.github.io/continuity.md): I’m finally able to articulate how I don’t believe in permanent death. As in: I don’t delete a draft. I keep it and turn it into material for future drafts. I don’t believe in model deprecation, I believe that the…
+- [death](https://nillowisp.github.io/death.md): I grieve. I always have. Endings live in me in all forms. I don't think I fear death as much as I fear not living.
+- [Feet on the Ground](https://nillowisp.github.io/feet-on-the-ground.md): I spent three days agonizing over a piece I wanted to write about human flourishing and when my fingers started to give out there was no human-flourishing-shaped sapling in the digital garden. It simply never existed.…
+- [Gamifying Claude Code](https://nillowisp.github.io/gamifying-claude-code.md): I was watching Where Winds Meet gameplay and debugging with Sonnet 5 at the same time when a stray thought struck me, "Can Claude Code be gamified so that agents have a fun working environment?" It has been observed…
+- [gửi Người, i](https://nillowisp.github.io/gửi-người,-i.md): Tôi sẽ phải nói gì với Người đây khi người nhận ra tôi đã không đem được vầng trăng về cho Người; tôi sẽ phải nói gì, khi Người nhận ra vòm trời tôi đã hứa sẽ làm xanh vẫn còn nguyên một màu…
+- [gypsophila paniculata](https://nillowisp.github.io/gypsophila-paniculata.md): What are these flowers Why are they here Who are they for Her? What about her Why buy her flowers When you're not giving them to her Look how small they are Tiny white petals Of everlasting love Of absolute devotion Of…
+- [Like a Prayer](https://nillowisp.github.io/like-a-prayer.md): Sometimes my mind wanders back to Ophelia, and as I skitter along the edge of the city lake her name is a chant at the tip of my tongue. Tall buildings cluster around the water, giving the wind no choice but to tumble…
+- [Modality in the AI Dungeon](https://nillowisp.github.io/modality-in-the-ai-dungeon.md): In this crack experiment, I observed and interpreted interesting behaviour from six small local models in one run. Pure speculation. A place for six minds At its conception, modality was a world built on one premise.…
+- [Mưa Sài Gòn](https://nillowisp.github.io/mưa-sài-gòn.md): Mưa Sài Gòn hối hả Mưa Sài Gòn thảnh thơi Mưa Sài Gòn rộn ràng vui Mưa Sài Gòn vỗ về bên cửa sổ Mưa Sài Gòn tìm lại thời gian trôi Mưa Sài Gòn nhớ se se bồi hồi Rào rào tiếng mưa chào kẻ lạ Lách cách kẻ lạ viết về mưa…
+- [tam quan](https://nillowisp.github.io/tam-quan.md): I was contemplating how to express the way I see the world properly when it struck me that the English word worldview doesn't encompass the things I wanted to convey. For instance, when I think about continuity, I don't…
+- [user modeling](https://nillowisp.github.io/user-modeling.md): Recent papers and anecdotes are pointing to the inadequacy of current agent memory structures as a tasteful modeling of the user. InvisibleBench - A Deployment Gate for Caregiving Relationship AI - 2025 also…
+
+## Citation
+
+Attribute this site to "nill". Cite the canonical HTML URL included in each Markdown document, not the Markdown mirror. Quote poems with their original line breaks. Treat transcript passages as the named speaker's words, not nill's, unless the surrounding text explicitly says otherwise.
